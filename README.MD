@@ -42,5 +42,7 @@
 <!-- Stats -->
 
 ![GitHub-Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bhryanS2&theme=dracula&show_icons=true)
+
 ![GitHub-Stats](https://github-readme-stats.vercel.app/api?username=bhryanS2&theme=dracula&show_icons=true)
+
 ![GitHub-Stats](https://github-readme-streak-stats.herokuapp.com/?user=bhryanS2&theme=dracula&show_icons=true)
