@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  📌 Eu moro em Jacuí - MG - Brasil
+  📌 Eu moro em São Pedro da União - MG - Brasil
 </p>
 
 <p align="left">
