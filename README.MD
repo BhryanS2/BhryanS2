@@ -15,19 +15,19 @@
 ## 🚀 Sobre mim
 
 <p align="left">
-  💻 Desenvolvedor front-end React.js/Next.js
+  💻 Desenvolvedor front-end React.js/Next.js/Vue.JS e DevOps 
 </p>
 
 <p align="left">
-  📌 Eu moro em São Pedro da União - MG - Brasil
+  📌 Eu moro em Jacuí - MG - Brasil
 </p>
 
 <p align="left">
- 🎓👨‍🎓 Estudante do Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Muzambinho
+ 🎓👨‍🎓 Formado no Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Muzambinho
 </p>
 
 <p align="left">
- 🤓 Atualmente estou focado no front-end aprendendo as tecnologias: React.js, TypeScript, Next.js e Styled-Components.
+ 🤓 Atualmente estou focado no DevOps aprendendo as tecnologias: Kubernetes, Ferramentas de Observabilidade e Monitoramento.
 </p>
 
 ### 💬 Qualquer ajuda ou dica é sempre bem vinda!
