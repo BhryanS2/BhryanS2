@@ -1,32 +1,38 @@
 <h1 align="center">
-  Oi, eu sou o Bhryan 
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-  <br>Bem-vindo ao meu perfil!!!
+  👋 Olá, eu sou o Bhryan
 </h1>
 
-## 📬 Contato
+<p align="center">
+  <strong>DevOps & SRE Engineer</strong>
+</p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bhryanstepenhen@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhryan_S2/)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bhryanstepenhen/)
-
-## 🚀 Sobre mim
-
-- 💻 **DevOps/SRE Engineer** (Foco em Cloud & Automação)
-- 📌 Minas Gerais, Brasil
-- 🎓 Formado no Instituto Federal do Sul de Minas Gerais - Campus Muzambinho
-- 🤓 Atualmente focado em: **GCP, Kubernetes, Terraform e Golang.**
-
-### 💬 Qualquer ajuda ou dica é sempre bem vinda!
-
-Interesses: 📺 Animes, 🎶 Ouvir música, 🎮 Videogame, 💻 Maratonas de programação.
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhryanstepenhen/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bhryanstepenhen@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/bhryan_S2/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
-## 📈 My GitHub Stats
+## 🚀 Sobre mim
+
+- 💻 **Atuação:** Engenharia de Confiabilidade de Sites (SRE) e Cultura DevOps.
+- 📌 **Localização:** Minas Gerais, Brasil.
+- 🎓 **Formação:** Instituto Federal do Sul de Minas Gerais (IFSULDEMINAS) — Campus Muzambinho.
+- 🎯 **Foco atual:** Arquitetura em nuvem, orquestração de containers, infraestrutura como código (IaC) e ferramentas nativas em **Golang**.
+
+---
+
+## 🛠️ Stack & Tecnologias
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhryanS2&theme=dracula&show_icons=true&hide_border=true&locale=pt-br" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=bhryanS2&theme=dracula&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhryanS2&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=gcp,kubernetes,terraform,golang,docker,linux,githubactions,git,bash" alt="Tech Stack" />
 </p>
+
+---
